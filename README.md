@@ -60,6 +60,10 @@ A Flutter-based app that allows users to search for recipes based on ingredients
   ```
 
 ## Live Demo -
+<video controls>
+  <source src="./ApkFile/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
