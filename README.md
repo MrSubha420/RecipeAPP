@@ -60,12 +60,11 @@ A Flutter-based app that allows users to search for recipes based on ingredients
   ```
 
 ## Live Demo -
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe src="[https://github.com/MRSubha420/RecipeAPP/ApkFile/demo.mp4](https://github.com/MrSubha420/RecipeAPP/blob/main/ApkFile/demo.mp4)" 
-          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-          frameborder="0" allowfullscreen>
-  </iframe>
-</div>
+<video width="640" height="480" controls>
+  <source src="./" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 # IF you wank to .apk file for android 📂
   - go to the directory - [https://github.com/MRSubha420/RecipeAPP/ApkFile](https://github.com/MrSubha420/RecipeAPP/tree/main/ApkFile).
